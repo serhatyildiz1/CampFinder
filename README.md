@@ -9,7 +9,7 @@ CampFinder is a full-stack web application where users can create a campground l
 * MongoDB
 * Mongoose
 * Bootstrap
-* 
+
 # Features
 *Users can create, edit, and remove campgrounds
 *Users can review campgrounds once, and edit or remove their review
