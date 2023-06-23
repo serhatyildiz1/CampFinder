@@ -1,21 +1,21 @@
-CampFinder
+# CampFinder
 CampFinder is a full-stack web application where users can create a campground listing and review a campgrounds. In order to review or create a campground listing, users must have an account. This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
 ![campfinder](https://github.com/serhatyildiz1/CampFinder/assets/79581764/e2401a76-9a59-44b8-aa23-d8d5c94a49d9)
 
-- Built With
+# Built With
 * Node.js
 * Express
 * MongoDB
 * Mongoose
 * Bootstrap
 * 
-- Features
+# Features
 *Users can create, edit, and remove campgrounds
 *Users can review campgrounds once, and edit or remove their review
 *Search campground by name or location
 
-- Run it locally
+# Run it locally
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code
 3. Create a .env file in the root of the project and add the following:
